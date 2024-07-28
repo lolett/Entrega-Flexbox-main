@@ -1,0 +1,35 @@
+Entrega: Flexbox
+
+
+En esta práctica queremos que pongáis a prueba lo aprendido con display flex sin dejar en el olvido lo aprendido anteriormente.
+
+Podéis replicar cualquier página pequeñita, no necesitamos que haya una barbaridad de contenido, pero si una estructura básica con su header, su main y su footer.
+
+La página deberá ser responsive (por supuesto) y deberá tener unas buenas prácticas como las que llevamos utilizando hasta el momento
+
+
+
+Posicionar elementos
+
+Tener la capacidad de poder "colocar" los elementos de nuestra página donde queremos es clave a la hora de desarrollar páginas web, en este caso display flex es una gran herramienta para ello
+
+
+Instrucciones de la práctica
+
+Crear un archivo HTML y un CSS de una aplicación que elijáis, podéis coger un diseño de una landing page en Figma, os dejamos por aquí el link
+
+https://www.figma.com/community/file/1117815114206690225
+
+* no hay que replicar un figma elegido al completo, con hacer el header, un main con un par de secciones y el footer, sería suficiente.
+
+
+Entrega de la práctica
+
+Recordad que debéis utilizar todo lo visto anteriormente, hacer la página responsive y sobre todo tenéis que centraros en utilizar buenas prácticas de flex para hacer más fácilmente el adaptative/responsive y colocar bien nuestros elementos en la página.
+
+Esta aplicación se debe de ver igual de bien en desktop, tablet y mobile, por lo que antes de entregarla hay que tener por seguro que funciona en cualquier dispositivo sin problema.
+
+
+Una vez terminada la práctica, hay que entregar el link del repositorio del proyecto a desarrollowebfp@thepower.education con el asunto "Entrega: Flexbox - Tu nombre".
+
+Recordad que el Figma mostrado es solo un ejemplo, podéis crear la Landing Page que queráis siempre y cuando utilicéis en casi su totalidad display:flex para el posicionamiento de elementos.
